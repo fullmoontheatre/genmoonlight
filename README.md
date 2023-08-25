@@ -1,11 +1,11 @@
 # genmoonlight
 A python script to generate a Radiance file description of the moon at a specific location, date and time.
 
-"" Installation of dependencies
+## Installation of dependencies
 
 `python3 -m pip install -r requirements.txt`
 
-"" Options
+## Options
 
 ```
 #                                                _ _       _     _
